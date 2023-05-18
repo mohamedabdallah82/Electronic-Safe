@@ -55,10 +55,5 @@ Please note that this is a brief overview of the code. For a more detailed under
 https://github.com/mohamedabdallah82/Electronic-Safe/assets/126836270/a74c419a-9b14-4cb5-b434-1fd940e42b1e
 
 
-
-###Authors
-@![KareemAhmed2002]
-@RAHMA993
-@emanatef25
-@tasnym1
-@Amira2002
+###Author
+@mohamedabdallah82
