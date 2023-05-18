@@ -50,11 +50,16 @@ Please note that this is a brief overview of the code. For a more detailed under
 ![Electronic Safe](https://github.com/mohamedabdallah82/Electronic-Safe/assets/126836270/ec524727-b32c-4bac-ab39-4b5084a61deb)
 
 ###Simulation
-![Electronic Safe](https://github.com/mohamedabdallah82/Electronic-Safe/assets/126836270/87295c54-0e7f-461a-a0ff-deb602d60553)
+https://github.com/mohamedabdallah82/Electronic-Safe/assets/126836270/70f471d8-dca6-4a6c-b924-82c1d7d5842e
 
 ###Authors
+
 @KareemAhmed2002
+
 @RAHMA993
+
 @emanatef25
+
 @tasnym1
+
 @Amira2002
