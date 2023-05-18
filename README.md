@@ -46,20 +46,20 @@ This code implements a password-protected security system using an Arduino board
 
 Please note that this is a brief overview of the code. For a more detailed understanding, it's recommended to go through the code and comments provided within the code itself.
 
-###Circuit Diagram
+### Circuit Diagram
 ![Electronic Safe](https://github.com/mohamedabdallah82/Electronic-Safe/assets/126836270/ec524727-b32c-4bac-ab39-4b5084a61deb)
 
-###Simulation
+### Simulation
 
 
 https://github.com/mohamedabdallah82/Electronic-Safe/assets/126836270/a74c419a-9b14-4cb5-b434-1fd940e42b1e
 
 
-###Author
+### Author
 
-[@Mohamed Abdallah](https://github.com/mohamedabdallah82)
-[@Amira Ayman](https://github.com/Amira2002)
-[@Kareem Ahmed](https://github.com/KareemAhmed2002)
-[@RAHMA](https://github.com/RAHMA993)
-[@Eman Atef](https://github.com/emanatef25)
-[@Tasneem Ashraf](https://github.com/tasnym1)
+-[@Mohamed Abdallah](https://github.com/mohamedabdallah82)
+-[@Amira Ayman](https://github.com/Amira2002)
+-[@Kareem Ahmed](https://github.com/KareemAhmed2002)
+-[@RAHMA](https://github.com/RAHMA993)
+-[@Eman Atef](https://github.com/emanatef25)
+-[@Tasneem Ashraf](https://github.com/tasnym1)
